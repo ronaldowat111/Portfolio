@@ -1,5 +1,7 @@
 @import "tailwindcss";
 
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -11,11 +13,8 @@ html {
 }
 
 body {
-  background-color: #0F0A06;
-  color: #EAD9B0;
-  font-family: 'Courier Prime', monospace;
-}
-
-.font-serif {
-  font-family: 'Playfair Display', serif;
+  background-color: #5C94FC;
+  color: #f0f0f0;
+  font-family: 'Press Start 2P', monospace;
+  overflow-x: hidden;
 }

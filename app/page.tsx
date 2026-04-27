@@ -1,13 +1,5 @@
-import Hero from "@/components/hero";
-import About from "@/components/about";
-import Skills from "@/components/Skills";
+import Portfolio from "@/components/Portfolio";
 
 export default function Home() {
-  return (
-    <main>
-      <Hero/>
-      <About/>
-      <Skills/>
-    </main>
-  )
+  return <Portfolio />;
 }
