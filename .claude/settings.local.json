@@ -6,7 +6,8 @@
       "PowerShell(Stop-Process *)",
       "Bash(npm install *)",
       "Bash(npx jest *)",
-      "Bash(npx tsc *)"
+      "Bash(npx tsc *)",
+      "Bash(npm test *)"
     ]
   }
 }
